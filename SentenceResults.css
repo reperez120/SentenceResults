@@ -1,0 +1,45 @@
+html {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: lightgrey;
+}
+h1 {
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: grey;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.prompt-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+button {
+    background-color: grey;
+    font-size: .8rem;
+    height: 2rem;
+    width: 5rem;  
+    margin-bottom: 2rem;
+}
